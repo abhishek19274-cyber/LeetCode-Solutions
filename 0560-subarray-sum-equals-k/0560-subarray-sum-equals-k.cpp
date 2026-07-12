@@ -7,7 +7,6 @@ public:
         for (int i = 0; i < nums.size(); i++) {
             sum += nums[i];
             int remaining = sum - k;
-
             if (premap.find(remaining) != premap.end()) {
                 count += premap[remaining];
             }
