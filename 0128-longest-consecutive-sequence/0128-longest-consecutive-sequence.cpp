@@ -5,10 +5,10 @@ public:
         if(n==0)return 0;
         int longest =1;
         unordered_set<int> s;
-        for(auto ele : nums){
+        for(const auto& ele : nums){
             s.insert(ele);
         }
-        for(auto ele : s){
+        for(const auto& ele : s){
             if(s.find(ele-1)==s.end()){
                 int cnt = 1;
                 int x = ele;
