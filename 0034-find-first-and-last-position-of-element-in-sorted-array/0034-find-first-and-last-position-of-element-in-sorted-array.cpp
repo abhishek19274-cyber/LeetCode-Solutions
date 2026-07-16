@@ -1,26 +1,29 @@
 class Solution {
 public:
-    
     int lowerbound(vector<int>& nums, int target){
-       int l=0,h=nums.size()-1;
-       while(l<=h){
-            int mid=l+(h-l)/2;
-            if(nums[mid]<target)
-                l=mid+1;
-            else
-                h=mid-1; 
-       }
-        return l;
+        int n = nums.size();
+        int low =0;
+        int high = n-1;
+        int ans = n;
+        while(low <= high ){
+            int mid = low + ((high - low )>>1);
+            if(nums[mid]>=target){
+                ans = mid;
+                high = mid-1;
+            }
+            else{
+                low = mid+1;
+            }
+        }
+        return ans;
     }
     vector<int> searchRange(vector<int>& nums, int target) {
-       vector<int> ans(2);
-        ans[0]=-1;
-        ans[1]=-1;
-       int l=lowerbound(nums, target);
-       int r=lowerbound(nums, target+1)-1;
-       if(l<nums.size() && nums[l]==target){
-			return {l,r};
-		}
-        return ans;
+        int first = lowerbound(nums, target);
+        if (first == nums.size() || nums[first] != target) {
+            return {-1, -1};
+        }
+        int last = lowerbound(nums, target + 1) - 1;
+        
+        return {first, last};
     }
 };
