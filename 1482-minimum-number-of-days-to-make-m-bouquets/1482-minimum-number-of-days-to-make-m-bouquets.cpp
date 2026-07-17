@@ -8,15 +8,10 @@ public:
                 adjacent_flower++;
                 if(adjacent_flower == k){
                     bq++;
-                    adjacent_flower = 0;
-                }
-            }
+                    adjacent_flower = 0;}}
             else{
-                 adjacent_flower = 0;
-            }
-        }
-        return bq >= m;
-    }
+                 adjacent_flower = 0;}}
+        return bq >= m;}
     int minDays(vector<int>& bloomDay, int m, int k) {
         if(bloomDay.size() < (long long)m * k) return -1;
         long long low = 0; 
@@ -28,8 +23,6 @@ public:
             }
             else{
                 low = mid;
-            }
-        }
-        return high;
-    }
+        }}
+        return high;}
 };
