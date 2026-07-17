@@ -10,7 +10,7 @@ public:
     int minEatingSpeed(vector<int>& piles, int h) {
         const long long  N= 1e9;
         long long low =1;
-        long long high =N;
+        long long high = *max_element(piles.begin(), piles.end());
         while(high-low>1){
             long long mid = low + ((high - low)>>1);
             if(helperfunction(piles,h,mid) == false){
