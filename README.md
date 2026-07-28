@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -160,6 +161,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
