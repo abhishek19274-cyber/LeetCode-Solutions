@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
