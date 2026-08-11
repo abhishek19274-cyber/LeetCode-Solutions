@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0282-expression-add-operators](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
 | ------- |
