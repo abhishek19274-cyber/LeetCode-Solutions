@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
@@ -268,4 +271,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0051-n-queens) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
