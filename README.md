@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -307,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
