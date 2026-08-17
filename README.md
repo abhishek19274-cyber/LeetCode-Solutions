@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0282-expression-add-operators](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -312,4 +314,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
