@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0621-task-scheduler](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
@@ -332,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0621-task-scheduler](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
