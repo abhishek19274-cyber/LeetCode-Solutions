@@ -5,15 +5,19 @@ public:
         for(auto ele : nums){
             freq[ele]++;
         }
-        vector<pair<int,int>> temp;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> heap;
         for(auto ele : freq){
-            temp.push_back({ele.second,ele.first});
+            heap.push({ele.second,ele.first});
+            if(heap.size() >k ){
+                heap.pop();
+            }
         }
-        sort(temp.rbegin(),temp.rend());
-        vector<int> answer;
-        for(int i=0;i<k;i++){
-            answer.push_back(temp[i].second);
+        vector<int> result;
+        while(!heap.empty()){
+            result.push_back(heap.top().second);
+            heap.pop();
         }
-        return answer;
+        return result;
+        
     }
 };
