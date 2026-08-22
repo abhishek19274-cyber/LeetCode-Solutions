@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0621-task-scheduler) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0912-sort-an-array) |
@@ -185,12 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 ## Dynamic Programming
 |  |
@@ -341,12 +346,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -380,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
