@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0282-expression-add-operators](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Merge Sort
 |  |
 | ------- |
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
