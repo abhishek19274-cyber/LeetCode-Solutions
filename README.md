@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
