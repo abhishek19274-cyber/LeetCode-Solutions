@@ -1,21 +1,21 @@
 class Solution {
 public:
-    int solution(int i,int j,vector<vector<int>>& triangle,vector<vector<int>>& dp){
-        if(j<0 or j > i) return 1e9;
-        if(dp[i][j]!=-1)return dp[i][j];
-        if(i == 0)return dp[0][0] = triangle[0][0];
-        int path1 = solution(i-1,j,triangle,dp);
-        int path2 = solution(i-1,j-1,triangle,dp);
-        return dp[i][j] = triangle[i][j] + min(path1,path2);
-    }
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
-        int result = INT_MAX;
-        vector<vector<int>> dp(n,vector<int>(n,-1));
-        for(int i =0;i<n;i++){
-            int curr = solution(n-1,i,triangle,dp);
-            result = min(curr,result);
+        const long long INF = 1e18;
+        vector<vector<long long>> dp(n, vector<long long>(n, INF));
+        dp[0][0] = triangle[0][0];
+        for (int i = 1; i < n; i++) {
+            for (int j = 0; j <= i; j++) {
+                long long path1 = (j <= i - 1) ? dp[i - 1][j] : INF;
+                long long path2 = (j > 0) ? dp[i - 1][j - 1] : INF;
+                dp[i][j] = (long long)triangle[i][j] + min(path1, path2);
+            }
         }
-        return result;
+        long long result = INF;
+        for (int i = 0; i < n; i++) {
+            result = min(result, dp[n - 1][i]);
+        }
+        return (int)result;
     }
 };
