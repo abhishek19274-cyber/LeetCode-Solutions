@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0135-candy) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0198-house-robber) |
