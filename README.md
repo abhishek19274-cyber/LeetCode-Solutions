@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0282-expression-add-operators](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
