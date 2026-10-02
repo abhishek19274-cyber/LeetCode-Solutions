@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0120-triangle) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0072-edit-distance](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
