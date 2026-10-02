@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0282-expression-add-operators](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
