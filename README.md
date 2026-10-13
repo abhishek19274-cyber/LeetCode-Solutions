@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Merge Sort
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Algorithm X
 |  |
 | ------- |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/abhishek19274-cyber/LeetCode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
