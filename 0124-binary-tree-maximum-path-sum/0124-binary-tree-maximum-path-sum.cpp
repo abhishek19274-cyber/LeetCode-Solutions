@@ -24,7 +24,6 @@ public:
         int current_path = root->val + left_gain + right_gain;
         int left_poss = root->left ? maxPathSum(root->left) : INT_MIN;
         int right_poss = root->right ? maxPathSum(root->right) : INT_MIN;
-
         return max({current_path,left_poss,right_poss});
     }
 };
